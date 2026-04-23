@@ -1,5 +1,3 @@
-const bcrypt = require("bcrypt-nodejs");
-
 /* The UserDAO must be constructed with a connected database object */
 function UserDAO(db) {
 
